@@ -8,3 +8,4 @@ Cambiamos al directorio: cd nombre-app
 
 Ejecutar comando: npm run dev
 
+
