@@ -1,7 +1,7 @@
 # Next.js
 React Framework for Production
 
-//comando para crear estructura proyecto
+Comando para crear estructura proyecto:
 npx create-next-app nombre-app
 
 //cambiamos al directorio
