@@ -4,10 +4,8 @@ export default function productsPage(){
 
     return(
 
-        <Page>
             <p>Products</p>
-           
-        </Page>
+  
     )
 
 }

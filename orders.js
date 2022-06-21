@@ -4,10 +4,8 @@ export default function ordersPage(){
 
     return(
 
-        <Page>
             <p>Orders</p>
           
-        </Page>
     )
 
 }
